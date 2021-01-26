@@ -1,0 +1,43 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid/* #000000*/;
+    text-align: left;
+    padding: 35px;
+  }
+  
+  /*tr:nth-child(even) {
+    background-color: #000000;
+  }*/
+
+  h1{
+    text-align: center;
+  }
+
+  .color_red{
+      background-color: red;
+  }
+
+  .color_blue{
+    background-color: blue;
+}
+
+.color_green{
+    background-color: #4dff4d;
+}
+
+.color_yellow{
+    background-color: yellow;
+}
+
+.img{
+    width: 50%;
+}
+
+.players{
+  size: 50%;
+}
